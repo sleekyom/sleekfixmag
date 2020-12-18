@@ -18,7 +18,7 @@ export const GlobalStyle = createGlobalStyle`
   font-family: 'Abel', sans-serif;
 }
 
-body {
+  body {
   margin: 0;
   padding: 0;
 
